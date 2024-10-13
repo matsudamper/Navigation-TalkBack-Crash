@@ -1,8 +1,6 @@
 # Navigation TalkBack Crash
 
 ## Environment
-- Below SDK31 (Android 8.1)
-
 Version confirmed by emulator.
 - 9.0(no Crash)  
 - 8.1(no Crash)  
